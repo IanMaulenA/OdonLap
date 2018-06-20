@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.android.volley.toolbox.JsonObjectRequest.JsonObjectRequest(url,jsonRequest,listener,errorListener)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
